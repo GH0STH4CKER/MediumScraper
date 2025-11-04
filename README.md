@@ -159,7 +159,7 @@ scraped_articles/
 ---
 
 ## ❤️ Author
-Built by **Sakya Zoysa**  
+Built by **Dimuth De Zoysa**  
 Inspired by the need to make Medium content more accessible for researchers and learners.
 
 ---
