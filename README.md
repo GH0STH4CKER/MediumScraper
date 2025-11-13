@@ -1,4 +1,5 @@
 # 📰 Medium Scraper (Freedium-backed)
+Online Tool : https://mediumscraper.lovable.app/
 
 A simple but powerful **Python CLI tool** that scrapes Medium articles — including **member-only** posts — by automatically routing them through **[Freedium](https://freedium.cfd)**.
 
